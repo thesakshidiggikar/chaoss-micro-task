@@ -1,0 +1,19 @@
+Microtask 0:
+Download and configure Augur, creating a dev environment using the general cautions noted here
+
+
+Augur
+https://oss-augur.readthedocs.io/en/dev/getting-started/installation.html and the full documentation here:
+https://oss-augur.readthedocs.io/en/dev/development-guide/toc.html
+Grimoirelab
+https://chaoss.github.io/grimoirelab-tutorial/
+
+
+Microstask 1:
+Work on any Augur or Grimoirelab Issue that's Open
+
+Microtask 2:
+Identify new issues you encounter during installation.
+
+Microtask 4:
+Anything you want to show us. Even if you find bugs in our documentation and want to issue a PR for those!
